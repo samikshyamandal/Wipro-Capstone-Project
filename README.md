@@ -1,5 +1,5 @@
 Wipro Capstone Project - Industrial Conveyor Motor Monitor
-By Debananda Behera
+By Samikshya Mandal
 
 This is my final capstone project. It includes a custom Linux device driver and a C++ dashboard to monitor an industrial conveyor belt.
 
