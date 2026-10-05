@@ -76,5 +76,5 @@ module_init(conveyor_init);
 module_exit(conveyor_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Debananda Behera");
+MODULE_AUTHOR("Samikshya mandal");
 MODULE_DESCRIPTION("Industrial Conveyor Motor Telemetry Driver");
